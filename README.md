@@ -32,7 +32,7 @@ I believe in helping others grow. Here are some useful repositories:
 
 ## 📫 Connect with Me
 - 🌍 [Personal Website](https://smrafi.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/s-mohammad-rafi-61b5b2368/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sm-rafi-32443027b)  
 - 📸 [Instagram](https://www.instagram.com/smrafi0699?igsh=)  
 - 🐦 [X / Twitter](https://x.com/SMRafiAI)  
 - 🎥 [YouTube](https://www.youtube.com/@rafi0699t)  
