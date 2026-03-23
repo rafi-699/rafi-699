@@ -17,9 +17,9 @@ After serving the Indian Air Force for 19.5 years, I founded ventures to bridge 
 ## 📚 Resources I Share
 I believe in helping others grow. Here are some useful repositories:  
 
-- 🔥 [Awesome AI Tools](https://github.com/rafi-699/awesome-ai-tools) → A curated list of AI tools I use  
+- 🔥 [offline AI assistant App](https://github.com/rafi-699/offline-ai-assistant-system) → A light-weight offline/local AI chat assistant for use when there is an outrage of connectivity.  
 - 🍽️ [Restaurant Automation Sample](https://github.com/rafi-699/restaurant-automation-sample) → How AI can handle restaurant calls/menus  
-- 🌐 [My Portfolio Website](https://new.smrafi.com) → Personal website 
+- 🌐 [My Portfolio Website](https://smrafi.com) → Personal website 
 
 ---
 
