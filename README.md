@@ -20,11 +20,15 @@ I believe in helping others grow. Here are some useful repositories:
 - 🔥 [offline AI assistant App](https://github.com/rafi-699/offline-ai-assistant-system) → A light-weight offline/local AI chat assistant for use when there is an outrage of connectivity.  
 - 🍽️ [Restaurant Automation Sample](https://github.com/rafi-699/restaurant-automation-sample) → How AI can handle restaurant calls/menus  
 - 🌐 [My Portfolio Website](https://smrafi.com) → Personal website 
+---
+A few demonstration repositories:
+- [https://github.com/rafi-699/pos-billing-software-demo]
+- 
 
 ---
 
 ## 🎯 Current Focus
-- Building **offline AI systems** (Ollama, ComfyUI, Docker)  
+- Building **offline AI systems**  
 - Promoting restaurants & local businesses using AI-driven marketing  
 - Developing **chatbots** & **AI assistants** for websites  
 
